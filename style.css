@@ -263,6 +263,11 @@ img {
     margin: 20px 0;
 }
 
+.footer-hover i:hover,
+.footer-hover ul li a:hover {
+    color: #0d7680;
+}
+
 .container {
     max-width: 1100px;
     margin: 0 auto;
